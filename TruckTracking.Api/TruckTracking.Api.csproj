@@ -12,7 +12,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\TruckTracking.Service\TruckTracking.Service\TruckTracking.Service.csproj" />
       <ProjectReference Include="..\TruckTracking.Service\TruckTracking.Service.csproj" />
     </ItemGroup>
 
