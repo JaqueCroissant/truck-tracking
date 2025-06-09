@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\TruckTracking\TruckTracking.Database\TruckTracking.Database.csproj" />
+      <ProjectReference Include="..\TruckTracking.Database\TruckTracking.Database.csproj" />
     </ItemGroup>
 
 </Project>
